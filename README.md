@@ -39,3 +39,28 @@ A plinky animated solarsystem. The sizes of all planets, colors and spacing is a
 <img src="https://raw.githubusercontent.com/zmcartor/thinkingfaces/master/gifs/solar.gif" width="200">
 
 
+### Shoestrap
+Inspired from the ubiquitous 'Bootstrap' styled spinner. Customizable via `tintColor`, `thickness`, `rotationTime`, `trackColor`
+
+A very thin track tinted blue:
+
+<img src="https://raw.githubusercontent.com/zmcartor/thinkingfaces/master/gifs/shoestrap1.gif" width="200">
+
+Or a very thick track
+
+<img src="https://raw.githubusercontent.com/zmcartor/thinkingfaces/master/gifs/shoestrap2.gif" width="200">
+
+### Ringo
+Pulsing ring animation customizable via `tintColor`, `speed`, and `entropy`. A higher entropy will make the pulse animation looks like a telescoping gradient.
+
+The blue gif has a high entropy. Notice the pulse feels like it's 'buzzing'
+
+<img src="https://raw.githubusercontent.com/zmcartor/thinkingfaces/master/gifs/ringo.gif" width="200">
+
+
+The red gif has a lower entropy.
+<img src="https://raw.githubusercontent.com/zmcartor/thinkingfaces/master/gifs/ringo2.gif" width="200">
+
+
+
+
