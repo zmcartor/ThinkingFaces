@@ -60,8 +60,23 @@ The blue gif has a high entropy. Notice the pulse feels like it's 'buzzing'
 
 The red gif has a lower entropy.
 
-<img src="https://raw.githubusercontent.com/zmcartor/thinkingfaces/master/gifs/ringo2.gif" width="200">
+<img src="https://raw.githubusercontent.com/zmcartor/thinkingfaces/master/gifs/ringored.gif" width="200">
 
+
+### YoYo Bouncer 🗻
+Abstract bouncer that looks a little like sun/moon trading places. Supports `speed` and `tintColor`
+
+<img src="https://raw.githubusercontent.com/zmcartor/thinkingfaces/master/gifs/yoyo.gif" width="200">
+
+
+### FadeSpinner 🔵
+Fading circles rotate clockwise. Customizable `speed`, `numberOfCircles` , `tintColor`.
+
+<img src="https://raw.githubusercontent.com/zmcartor/thinkingfaces/master/gifs/dot-fade.gif" width="200">
+
+Adding more circles
+
+<img src="https://raw.githubusercontent.com/zmcartor/thinkingfaces/master/gifs/dot-fade2.gif" width="200">
 
 
 
