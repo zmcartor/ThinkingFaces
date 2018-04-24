@@ -59,6 +59,7 @@ The blue gif has a high entropy. Notice the pulse feels like it's 'buzzing'
 
 
 The red gif has a lower entropy.
+
 <img src="https://raw.githubusercontent.com/zmcartor/thinkingfaces/master/gifs/ringo2.gif" width="200">
 
 
