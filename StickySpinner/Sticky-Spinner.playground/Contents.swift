@@ -6,12 +6,6 @@ import QuartzCore
 
 class StickySpinner : UIView {
     
-    var trackColor: UIColor = UIColor.lightGray {
-        didSet {
-            drawArc()
-        }
-    }
-    
     override var tintColor: UIColor! {
         didSet {
             drawArc()

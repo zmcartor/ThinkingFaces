@@ -28,7 +28,6 @@ class FlowerSpinner : UIView {
     
     override func layoutSubviews() {
         super.layoutSubviews()
-        
         drawDesign()
     }
     

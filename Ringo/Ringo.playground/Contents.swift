@@ -21,6 +21,12 @@ class Ringo : UIView {
         }
     }
     
+    override var tintColor: UIColor! {
+        didSet {
+            drawFigures()
+        }
+    }
+    
     private func scale(_ value:Float) -> Float {
         
         guard value <= 10 else { return 10 }
@@ -40,6 +46,7 @@ class Ringo : UIView {
     }
     
     private func drawFigures() {
+        layer.sublayers = nil
         
         let ember = drawCircle(radius: frame.width/2 - 5)
         ember.opacity = 0.5
@@ -95,6 +102,7 @@ class Ringo : UIView {
 // Present the view controller in the Live View window
 let ring = Ringo(frame: CGRect(x: 0, y: 0, width: 200, height: 200))
 ring.backgroundColor = .white
-ring.entropy = 9
+ring.entropy = 3
 ring.speed = 1
+ring.tintColor = UIColor.red
 PlaygroundPage.current.liveView = ring
