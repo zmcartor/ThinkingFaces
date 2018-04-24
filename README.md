@@ -11,7 +11,8 @@ All components are a single class, and come packaged within a playground. Tweak 
 ## Component Summary 🧙‍♂️
 
 ### SquareForce
-Kinetic bouncing ball. Customizable via `tintColor` and `circleDiameter` 
+Kinetic bouncing ball. Customizable via `tintColor` and `circleDiameter`
+
 <img src="https://raw.githubusercontent.com/zmcartor/thinkingfaces/master/gifs/square.gif" width="200">
 
 
@@ -21,4 +22,5 @@ Much like the system default `UIActivitySpinner`. Customizable via `speed`, `num
 <img src="https://raw.githubusercontent.com/zmcartor/thinkingfaces/master/gifs/flower1.gif" width="200">
 
 Adding many circles can create a more interesting shape.
+
 <img src="https://raw.githubusercontent.com/zmcartor/thinkingfaces/master/gifs/flower2.gif" width="200">
