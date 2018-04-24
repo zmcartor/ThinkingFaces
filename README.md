@@ -11,4 +11,4 @@ All components are a single class, and come packaged within a playground. Tweak 
 ## Component Summary 🧙‍♂️
 
 - SquareForce : 
-![squareforce gif]("https://raw.githubusercontent.com/zmcartor/thinkingfaces/master/gifs/square.gif"){:height="200px" width="200px"}
+<img src="https://raw.githubusercontent.com/zmcartor/thinkingfaces/master/gifs/square.gif" width="200">
