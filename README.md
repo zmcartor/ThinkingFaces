@@ -16,6 +16,13 @@ Kinetic bouncing ball. Customizable via `tintColor` and `circleDiameter`
 <img src="https://raw.githubusercontent.com/zmcartor/thinkingfaces/master/gifs/square.gif" width="200">
 
 
+### StickySpinner
+
+Inspired by Google, this spinner stretches and adjusts it's thickness for a more organic feel. Customizable via `tintColor` , `thickness` and `rotationTime`
+
+<img src="https://raw.githubusercontent.com/zmcartor/thinkingfaces/master/gifs/sticky.gif" width="200">
+
+
 ### FlowerSpinner
 Much like the system default `UIActivitySpinner`. Customizable via `speed`, `numberOfCircles` and `tintColor`
 
@@ -24,3 +31,11 @@ Much like the system default `UIActivitySpinner`. Customizable via `speed`, `num
 Adding many circles can create a more interesting shape.
 
 <img src="https://raw.githubusercontent.com/zmcartor/thinkingfaces/master/gifs/flower2.gif" width="200">
+
+
+### SolarSpinner
+A plinky animated solarsystem. The sizes of all planets, colors and spacing is all parameterizable. `spacing` and `masses` all take a tuple of three `Ints`. `bodyColors` accepts a tuple of `UIColor`. Use this as a starting point and hack the code to add more than 3 planets. 🚀🌎
+
+<img src="https://raw.githubusercontent.com/zmcartor/thinkingfaces/master/gifs/solar.gif" width="200">
+
+
